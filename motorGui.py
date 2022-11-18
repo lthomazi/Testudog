@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import Tk
 from motor_driver.canmotorlib import *
 import time
 
